@@ -1,0 +1,7 @@
+streamlit
+pandas
+yfinance
+datetime
+cufflinks
+matplotlib
+sklearn
