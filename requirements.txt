@@ -4,4 +4,5 @@ yfinance
 datetime
 cufflinks
 matplotlib
-sklearn
+scikit-learn
+
